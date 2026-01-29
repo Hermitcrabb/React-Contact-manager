@@ -1,0 +1,56 @@
+* {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.nav_bar {
+  background: #abc9ce;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+input {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 15px;
+  outline: none;
+}
+button {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 15px;
+  outline: none;
+  color: black;
+  font-weight: 600;
+  background: rgb(239 252 255);
+  cursor: pointer;
+}
+
+.contact_adder {
+  background: rgba(178, 204, 214, 0.966);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.contact-list {
+  background-color: rgba(169, 201, 214, 0.966);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+}
+.contact {
+  background: rgb(239 252 255);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+  color: #a188ab;
+}
